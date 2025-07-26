@@ -1,6 +1,19 @@
 # ArchInternship
 This repository is for my internship tasks which are given in monthly bases 
 ------
+#TaskNo1
+
+Build A Streamlit Interface For A Locally 
+Installed LLM
+ Create a simple and interactive Streamlit web interface that connects to a locally
+ installed large language model (LLM) running via Ollama. The interface should
+ include a text input box for user queries and a response area to display
+ modelgenerated answers. Ensure smooth communication between the Streamlit
+ frontend and the LLM back-end using appropriate API calls or local endpoints. Add
+ basic features like a conversation history panel and a reset button to enhance
+ usability.
+
+
  #TaskNo2
 Medical Finetuning With Qlora Using Unsloth In Colab
 Implement a QLoRA-based fine-tuning workflow for a medical language model
